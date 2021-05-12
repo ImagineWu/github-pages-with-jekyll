@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Imagine Wu"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Hello! My name is Imagine Wu.
