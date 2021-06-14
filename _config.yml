@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
 theme: minima
 # social links
 github_username:  ImagineWu # DO NOT include the @ character, or else the build will fail!
-youtube_username:  Imagine Wu # DO NOT include the @ character, or else the build will fail!
+youtube_channel_name:  Imagine Wu # DO NOT include the @ character, or else the build will fail!
 facebook_username: Imagine Wu
 
 show_excerpts: true # set to false to remove excerpts on the homepage
