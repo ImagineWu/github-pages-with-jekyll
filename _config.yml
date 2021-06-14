@@ -7,5 +7,7 @@ theme: minima
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
 github_username:  ImagineWu # DO NOT include the @ character, or else the build will fail!
+reddit_username:  Icosseeker # DO NOT include the @ character, or else the build will fail!
+facebook_username: Imagine Wu
 
 show_excerpts: true # set to false to remove excerpts on the homepage
